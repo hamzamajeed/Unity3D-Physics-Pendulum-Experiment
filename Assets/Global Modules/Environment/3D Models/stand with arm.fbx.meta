@@ -1,0 +1,187 @@
+fileFormatVersion: 2
+guid: 7bb5b755eb8c3254ab9f8b0a97280fb5
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: CINEMA_4D_Editor
+    100002: clamp
+    100004: clamp_2
+    100006: Cylinder
+    100008: Cylinder_1
+    100010: Group
+    100012: Group_2
+    100014: Group_3
+    100016: main_screw
+    100018: stand
+    100020: //RootNode
+    100022: support_01
+    100024: support_02
+    100026: wingnut
+    100028: wingnut_2
+    400000: CINEMA_4D_Editor
+    400002: clamp
+    400004: clamp_2
+    400006: Cylinder
+    400008: Cylinder_1
+    400010: Group
+    400012: Group_2
+    400014: Group_3
+    400016: main_screw
+    400018: stand
+    400020: //RootNode
+    400022: support_01
+    400024: support_02
+    400026: wingnut
+    400028: wingnut_2
+    2000000: CINEMA_4D_Editor
+    2100000: Front Default
+    2100002: _9
+    2100004: Mat.2
+    2300000: clamp_2
+    2300002: Cylinder
+    2300004: Cylinder_1
+    2300006: Group_2
+    2300008: Group_3
+    2300010: support_01
+    2300012: support_02
+    2300014: wingnut
+    2300016: wingnut_2
+    3300000: clamp_2
+    3300002: Cylinder
+    3300004: Cylinder_1
+    3300006: Group_2
+    3300008: Group_3
+    3300010: support_01
+    3300012: support_02
+    3300014: wingnut
+    3300016: wingnut_2
+    4300000: support_02
+    4300002: support_01
+    4300004: clamp_2
+    4300006: wingnut
+    4300008: Group_2
+    4300010: Group_3
+    4300012: wingnut_2
+    4300014: Cylinder_1
+    4300016: Cylinder
+    6400000: clamp_2
+    6400002: Cylinder
+    6400004: Cylinder_1
+    6400006: Group_2
+    6400008: Group_3
+    6400010: support_01
+    6400012: support_02
+    6400014: wingnut
+    6400016: wingnut_2
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Front Default
+    second: {fileID: 2100000, guid: ef2f63f2574d63c4082b064673a03919, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat.2
+    second: {fileID: 2100000, guid: 2d38db17a6ab70f42b92acabad4372ea, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _9
+    second: {fileID: 2100000, guid: 5fb58fec63a8c5447845dfc91e31d402, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: metal texture-01
+    second: {fileID: 2800000, guid: 9636fce40b8f32040ae409b8c6026d8e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: wood texture-01
+    second: {fileID: 2800000, guid: ad2ec74cf9f886348996097eab871491, type: 3}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 1
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 0
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
